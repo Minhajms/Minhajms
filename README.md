@@ -86,9 +86,6 @@
 
 <div align="center">
 
-## GitHub Stats 📊
-
-<img src="https://github-readme-stats.vercel.app/api?username=Minhajms&show_icons=true&theme=dark&hide_border=true" width="45%" align="center" />
 
 ## Contact 📫
 

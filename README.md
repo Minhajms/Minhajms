@@ -1,105 +1,162 @@
+```ascii
+  ╔══════════════════════════════════════════════════════════════════════════════╗
+  ║                                                                              ║
+  ║                           ⚡ M I N H A J   S ⚡                              ║
+  ║                     DevOps & Cloud Infrastructure Engineer                   ║
+  ║                                                                              ║
+  ╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;Automation+Enthusiast;AWS+Solution+Architect)](https://git.io/typing-svg)
 
-![DevOps Banner](https://img.shields.io/badge/DevOps-Infrastructure%20as%20Code%20|%20CI/CD%20|%20Cloud%20Native-blue?style=for-the-badge)
-
-# Minhaj S
-### 🚀 DevOps Engineer | Cloud Infrastructure Specialist
-
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 </div>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ## 🎯 About Me
-
-DevOps Engineer specializing in cloud infrastructure automation and CI/CD implementation. Experienced in building scalable solutions using AWS, Terraform, and Kubernetes. Passionate about implementing infrastructure as code and automating deployment pipelines.
-
-## 🛠️ Featured Projects
-
-### 1. AWS Infrastructure Automation
-- Implemented multi-resource AWS deployment using CloudFormation and Terraform
-- Configured EC2, RDS instances with custom security groups
-- Automated resource provisioning reducing setup time by 50%
-- Technologies: `AWS` `Terraform` `CloudFormation` `IAM`
-
-### 2. Kubernetes Deployment Orchestration
-- Implemented blue-green deployment strategy using Kubernetes
-- Created custom ingress controllers for traffic management (75-25 split)
-- Automated deployment using Terraform with JSON-based configuration
-- Technologies: `Kubernetes` `Docker` `Terraform` `Nginx Ingress`
-
-### 3. Automated Monitoring System
-- Developed RAM monitoring system with Slack integration
-- Created system service for continuous monitoring
-- Implemented cron-based scheduling for periodic checks
-- Technologies: `Bash` `Cron` `Slack API` `SystemD`
-
-### 4. AWS S3 Backup Automation
-- Automated MySQL database backups to AWS S3
-- Implemented IAM roles and security policies
-- Configured scheduled backups using cron
-- Technologies: `AWS CLI` `S3` `IAM` `MySQL`
-
-### 5. E-Commerce Infrastructure (Magento)
-- Set up LEMP stack with Redis, Varnish, and Elasticsearch
-- Implemented SSL certification and Varnish authentication
-- Integrated AWS S3 for media storage
-- Technologies: `Nginx` `Redis` `Varnish` `Elasticsearch` `AWS S3`
-
-### 6. Serverless Applications
-- Created Lambda functions for EC2 management
-- Implemented SAM templates for Lambda deployment
-- Built monitoring system with Slack integration
-- Technologies: `AWS Lambda` `SAM` `CloudWatch` `API Gateway`
-
-## 💻 Technical Skills
-
 ```yaml
-Cloud & Infrastructure:
-  AWS: [EC2, S3, RDS, Lambda, CloudFront, IAM]
-  IaC: [Terraform, CloudFormation, SAM]
-  Containers: [Docker, Kubernetes, Minikube]
-  
-CI/CD & Automation:
-  - GitHub Actions
-  - Bash Scripting
-  - Cron Jobs
-  - SystemD Services
-
-Web Technologies:
-  - LEMP Stack
-  - Redis
-  - Varnish
-  - Elasticsearch
-  - SSL/TLS
-
-Monitoring & Security:
-  - CloudWatch
-  - Custom Monitoring Solutions
-  - IAM Policies
-  - Security Groups
+name: Minhaj S
+located_in: Wayanad, Kerala, India
+current_role: DevOps Engineer
+technical_background:
+  - Cloud Infrastructure Automation
+  - CI/CD Implementation
+  - Infrastructure as Code
+  - Container Orchestration
+education: 
+  - BSc in Data Science & AI (IIT Madras)
+  - BA in English (Kannur University)
 ```
 
-## 📈 GitHub Activity
+<div align="center">
+  
+## 💫 Tech Universe
 
-![Minhaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minhajms&show_icons=true&theme=dracula)
+</div>
 
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/minhajms)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Minhajms)
-[![Medium](https://img.shields.io/badge/Medium-Follow-green?style=flat-square&logo=medium)](https://medium.com/@minhajminnu580)
+```mermaid
+mindmap
+  root((DevOps))
+    Cloud
+      AWS
+        EC2
+        S3
+        RDS
+        Lambda
+        CloudFront
+    Containers
+      Docker
+      Kubernetes
+      Minikube
+    IaC
+      Terraform
+      CloudFormation
+      SAM
+    CI/CD
+      GitHub Actions
+      Automation
+      Monitoring
+    Web Stack
+      LEMP
+      Redis
+      Varnish
+      Elasticsearch
+```
 
-## 📫 Contact
-- 📧 minhajoutflow@gmail.com
-- 📍 Wayanad, Kerala, India
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<details>
+<summary>🌟 AWS Infrastructure Automation</summary>
+
+```plaintext
+│── Project Overview
+│   ├── Multi-resource AWS deployment
+│   ├── EC2 & RDS configuration
+│   └── 50% reduction in setup time
+│
+│── Technologies
+│   ├── AWS
+│   ├── Terraform
+│   ├── CloudFormation
+│   └── IAM
+```
+</details>
+
+<details>
+<summary>🔄 Kubernetes Orchestration</summary>
+
+```plaintext
+│── Implementation
+│   ├── Blue-green deployment
+│   ├── Custom ingress controllers
+│   └── Traffic management (75-25)
+│
+│── Stack
+│   ├── Kubernetes
+│   ├── Docker
+│   ├── Terraform
+│   └── Nginx Ingress
+```
+</details>
+
+<details>
+<summary>📊 Monitoring System</summary>
+
+```plaintext
+│── Features
+│   ├── RAM monitoring
+│   ├── Slack integration
+│   └── Automated alerts
+│
+│── Tools
+│   ├── Bash
+│   ├── Cron
+│   ├── Slack API
+│   └── SystemD
+```
+</details>
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/minhajms" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/Minhajms" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://medium.com/@minhajminnu580" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+
+</div>
+
+<div align="center">
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Minhajms">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minhajms&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhajms&layout=compact&theme=radical"/>
+</a>
+</p>
+
+</div>
 
 ---
 
-### 🌱 Current Focus
-- Advanced Kubernetes Orchestration
-- Terraform Infrastructure Modules
-- AWS Lambda and Serverless Architecture
-- Infrastructure Security Best Practices
+<div align="center">
+
+### 📫 Reach out to me: minhajoutflow@gmail.com
+
+<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+
+```bash
+~ $ while true; do echo "Happy Coding! 👨‍💻"; done
+```
+
+</div>
